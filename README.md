@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+#### I'm a CHinese student studying in CEFLS Senior High School, Tianfu New Area (四川天府新区实外高级中学), one of the branch campuses of Chengdu Foreign Languages school.
+### My Chinese name is "张皓然", and "Haoran Zhang" in English. "zhr-zhang" is a name to be shown on social platforms.
+#### Birthday: 2007/01/27
 <!--
 **zhr-zhang/zhr-zhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
