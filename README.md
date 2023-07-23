@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### I'm a CHinese student studying in CEFLS Senior High School, Tianfu New Area (四川天府新区实外高级中学), one of the branch campuses of Chengdu Foreign Languages school. I'm in Class 1, Grade 2022.
-#### My Chinese name is "张皓然", and "Haoran Zhang" in English. "zhr-zhang" is a name to be shown on social platforms.
+#### My Chinese name is Haoran Zhang, and 张皓然 in Chinese. "zhr-zhang" is a name to be shown on social platforms.
 #### Birthday: 2007/01/27.
 #### Contact:
 - zhr.zhang@outlook.com
